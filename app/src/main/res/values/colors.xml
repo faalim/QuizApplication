@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors_array">
+        <item name="aqua">#90A4AE</item>
+        <item name="Magenta">#F50057</item>
+        <item name="MediumPurple">#9370DB</item>
+        <item name="FireBrick">#B22222</item>
+        <item name="Goldenrod">#00897B</item>
+        <item name="ForestGreen">#1565C0</item>
+        <item name="Fuchsia">#EC407A</item>
+        <item name="Gold">#FFD700</item>
+        <item name="CornflowerBlue">#6495ED</item>
+        <item name="Sienna">#F4511E</item>
+        <item name="SkyBlue">#00ACC1</item>
+        <item name="SlateBlue">#6A5ACD</item>
+    </array>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+</resources>

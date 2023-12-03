@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/avgResult" android:title="@string/get_the_average" />
+    <item android:id="@+id/numOfQuestions" android:title="@string/select_the_number_of_questions_menu" />
+    <item android:id="@+id/resetResults" android:title="@string/reset_the_saved_results" />
+</menu>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="true_txt">True</string>
+    <string name="false_txt">False</string>
+    <string name="get_the_average">Get The Average</string>
+    <string name="reset_the_saved_results">Reset The Saved Results</string>
+    <string name="select_number_of_questions">Select Number Of Questions Between 1-10</string>
+    <string name="save">Save</string>
+    <string name="quantity_hint">Enter Quantity</string>
+    <string name="select_the_number_of_questions_menu">Select The Number Of Questions</string>
+    <string name="question_1">France is responsible for giving us French fries.</string>
+    <string name="question_2">Ketchup was once used as a medicine.</string>
+    <string name="question_3">Saffron is the most expensive spice in the world.</string>
+    <string name="question_4">Tomatoes are vegetables.</string>
+    <string name="question_5">The blue whale is the biggest animal to have ever lived.</string>
+    <string name="question_6">Sloths take two weeks to digest food.</string>
+    <string name="question_7">Herbivores eat animals.</string>
+    <string name="question_8">Bats are blind.</string>
+    <string name="question_9">Ants can hold up to 5,000 times their body weight.</string>
+    <string name="question_10">An octopus has one heart.</string>
+    <string name="answer_1" translatable="false">false</string>
+    <string name="answer_2" translatable="false">true</string>
+    <string name="answer_3" translatable="false">true</string>
+    <string name="answer_4" translatable="false">false</string>
+    <string name="answer_5" translatable="false">true</string>
+    <string name="answer_6" translatable="false">true</string>
+    <string name="answer_7" translatable="false">false</string>
+    <string name="answer_8" translatable="false">false</string>
+    <string name="answer_9" translatable="false">true</string>
+    <string name="answer_10" translatable="false">false</string>
+    <string name = "Alert_badQ">Quantity should be between 1 and 10</string>
+    <string name = "quiz_completed">Quiz completed !</string>
+    <string name = "correct">Correct</string>
+    <string name ="Result">Result</string>
+    <string name ="rp1" >You Score is: </string>
+    <string name ="rp2" >out of</string>
+    <string name="rp3"> total attempts: </string>
+    <string name="progSaved">Progress saved !</string>
+    <string name="Ignore">"Ignore "</string>
+    <string name="avgResult2">correct answers in a total of</string>
+    <string name="avgResult3">"questions "</string>
+    <string name="ok">OK</string>
+    <string name="restratQ">Would you like to reset your quiz ?</string>
+    <string name="Restart">Restart</string>
+    <string name="cancel">Cancel</string>
+    <string name="avgResult1">You got</string>
+
+
+</resources>
